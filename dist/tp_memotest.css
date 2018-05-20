@@ -1,0 +1,56 @@
+header {
+  width: 1200px;
+  height: 150px;
+  margin: auto;
+}
+#gamer {
+  display: flex;
+  justify-content: flex-start;
+  align-items: center;
+  border: 2px solid black;
+  width: 1200px;
+  height: 600px;
+  margin: auto;
+}
+#gamer #userInfo {
+  width: 250px;
+  height: 540px;
+  border-radius: 15px;
+  font-size: 20px;
+  font-family: Arial;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+#gamer #userInfo #jugador {
+  color: black;
+  font-family: Georgia, 'Times New Roman', Times, serif;
+}
+#gamer #userInfo input {
+  width: 150px;
+  height: 20px;
+  border: 2px solid black;
+  font-size: 20px;
+  font-family: Arial;
+}
+#gamer #userInfo #counting {
+  color: black;
+  font-family: Georgia, 'Times New Roman', Times, serif;
+}
+#gamer #main-container {
+  width: 800px;
+}
+#gamer #main-container img {
+  border-radius: 5%;
+  width: 180px;
+  height: 180px;
+}
+.hideMe {
+  display: none;
+}
+.userStyle {
+  color: black;
+  font-size: 20px;
+  font-family: Georgia, 'Times New Roman', Times, serifARIAL;
+}
