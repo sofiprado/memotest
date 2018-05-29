@@ -24,19 +24,22 @@ header {
   align-items: center;
 }
 #gamer #userInfo #jugador {
-  color: black;
+  color: purple;
   font-family: Georgia, 'Times New Roman', Times, serif;
+  font-size: 30px;
 }
 #gamer #userInfo input {
   width: 150px;
   height: 20px;
-  border: 2px solid black;
+  border: 2px solid purple;
   font-size: 20px;
   font-family: Arial;
 }
 #gamer #userInfo #counting {
-  color: black;
+  text-align: center;
+  color: purple;
   font-family: Georgia, 'Times New Roman', Times, serif;
+  font-size: 22px;
 }
 #gamer #main-container {
   width: 800px;
@@ -50,7 +53,7 @@ header {
   display: none;
 }
 .userStyle {
-  color: black;
-  font-size: 20px;
-  font-family: Georgia, 'Times New Roman', Times, serifARIAL;
+  color: purple;
+  font-size: 30px;
+  font-family: Georgia, 'Times New Roman', Times, serif;
 }
